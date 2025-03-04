@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Node js, Js,DOM etc**
 
-- 💬 Ask me about **Adroid , MARN**
+- 💬 Ask me about **FRONTEND, MARN**
 
 - 📫 How to reach me **golamfaruk680@gmail.com**
 
