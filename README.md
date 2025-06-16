@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h1 align="center">Hi 👋, I'm Adnan</h1>
@@ -8,8 +7,8 @@
 
 - 🌱 I’m currently learning **React, Node.js, JavaScript, DOM, and more**
 - 💬 Ask me about **Frontend Development, MERN Stack**
-- 📫 How to reach me: **golamfaruk680@gmail.com**
-- 🧠 Practicing problems on [LeetCode](https://leetcode.com/u/Golam_Faruk_Adnan/)
+- 📫 Reach me at: **golamfaruk680@gmail.com**
+- 🧠 LeetCode grind: [My LeetCode Profile](https://leetcode.com/u/Golam_Faruk_Adnan/)
 
 ---
 
@@ -68,7 +67,7 @@
 
 ---
 
-🧡 *Thanks for visiting my profile! Let's build something amazing together.* 🔥
+🧡 *Thanks for visiting my profile! Let’s build cool stuff together.* 🚀
 
----
+
 
