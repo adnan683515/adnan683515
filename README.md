@@ -5,7 +5,7 @@
 
 <!-- 👤 Profile Image -->
 <p align="center">
-  <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="180" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="180" hight="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Golam Faruk Adnan</h1>
