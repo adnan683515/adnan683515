@@ -55,14 +55,12 @@
 
 # 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan683515&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="350" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adnan683515&theme=dark&hide_border=true" width="387" />
-</p>
-
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan683515&show_icons=true&theme=dark&hide_border=true" width="350" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan683515&theme=dark&hide_border=true&layout=compact" width="350" />
 </p>
+
+
 
 ---
 
