@@ -4,17 +4,17 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Golam Faruk Adnan</h1>
-<h3 align="center">🚀 Passionate Full Stack Web Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-✨ I'm a self-driven **Full Stack Web Developer** passionate about building modern, responsive web applications.  
-🎯 Skilled in: **React.js, HTML, CSS, Tailwind CSS, Node.js, Express.js**  
-🔍 I have also explored core programming with **C, C++, Python** and continue learning **Data Structures & Algorithms (DSA)**.  
-🧠 Recently started my **problem solving journey** on LeetCode to sharpen my logic and efficiency.  
-💡 Always exploring, learning, and building something cool!
+✨ I'm a passionate **Full Stack Web Developer** focused on building clean, scalable, and modern web applications.  
+⚛️ My core skills revolve around **React.js**, **HTML**, **CSS**, **Tailwind CSS**, **Node.js**, and **Express.js**.  
+📘 I have also explored technologies like **Python**, **C**, **C++**, and **SQL** to strengthen my foundation.  
+🛠️ I enjoy learning and continuously improving my development and problem-solving skills.  
+💡 Always striving to create meaningful, user-friendly digital experiences.
 
 ---
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 💡 Tools & Platforms  
