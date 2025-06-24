@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=knaeeim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adnan683515&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -49,32 +49,27 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=knaeeim&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="350" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=knaeeim&theme=dark&hide_border=true" width="387" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan683515&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="350" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adnan683515&theme=dark&hide_border=true" width="387" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaeeim&theme=dark&hide_border=true&layout=compact" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan683515&theme=dark&hide_border=true&layout=compact" width="350" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=knaeeim&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adnan683515&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
