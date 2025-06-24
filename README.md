@@ -1,12 +1,15 @@
 <!-- 🖼️ Clean Banner -->
-<p align="center">
+<div align="center" class="relative">
   <img src="https://i.ibb.co/5h35VMBn/software-developer-6521720-1280.jpg" alt="Developer Banner" width="100%" />
-</p>
 
-<!-- 👤 Profile Image (clearly visible, center, circular) -->
-<p align="center">
+
+  <p align="center">
   <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="170" style="border-radius: 50%;" />
 </p>
+</div>
+
+<!-- 👤 Profile Image (clearly visible, center, circular) -->
+
 
 <!-- ✨ Name and Title -->
 <h1 align="center">Hi 👋, I'm <span style="color:#3f51b5;">Golam Faruk Adnan</span></h1>
