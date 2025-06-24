@@ -1,72 +1,66 @@
-<!-- 🔥 Profile Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/5h35VMBn/software-developer-6521720-1280.jpg" alt="React Developer Banner" width="100%" />
-</p>
+<!-- 🎨 Banner -->
+<img src="https://i.ibb.co/5h35VMBn/software-developer-6521720-1280.jpg" alt="Banner" width="100%"/>
 
-<!-- 👤 Profile Image -->
-<p align="center">
-  <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="160" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">👋 Hi, I'm Golam Faruk Adnan</h1>
-<h3 align="center">🚀 Full Stack Developer | React Enthusiast | Tech Explorer</h3>
-
----
-
-## 🧑‍💻 About Me
-
-- 💻 Full Stack Developer from Bangladesh  
-- ⚛️ Specialized in **React**, **Tailwind CSS**, **JavaScript**  
-- 🌱 Tech explorer with hands-on in **C, C++, Python, MongoDB, SQL, DSA**
-- 🛠 Focused on building modern, user-friendly, and responsive web apps
+<!-- 🧑‍💻 Profile + Designation -->
+<table>
+  <tr>
+    <td width="180px" align="center">
+      <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="160" style="border-radius: 50%; border: 2px solid #ccc;" />
+    </td>
+    <td>
+      <h1>👋 Hi, I'm <strong>Golam Faruk Adnan</strong></h1>
+      <h3>🚀 Full Stack Developer | React Enthusiast | Tech Explorer</h3>
+      <p>🔭 I turn ideas into responsive web applications using modern technologies.</p>
+      <p>🌱 Exploring performance, clean code, and deep JavaScript fundamentals.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Technologies I Work With
+## 🧠 About Me
 
-### 💻 Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-
-### 🔧 Backend & Database
-- Express.js
-- MongoDB
-- SQL
+✨ I'm a passionate developer from Bangladesh, building modern websites using  
+✨ **React**, **TailwindCSS**, **Express.js**, and more.  
+✨ I love writing clean code and solving real-world problems.  
 
 ---
 
-## 🧪 Technologies I've Explored
+## 💼 Skills I Use Daily
 
-- C
-- C++
-- Python
-- JavaScript
-- React
-- Tailwind CSS
-- HTML & CSS
-- MongoDB
-- SQL
-- DSA (Data Structures & Algorithms)
+⭐ **Frontend:**  
+`React` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Tailwind CSS`
+
+⭐ **Backend & Database:**  
+`Express.js` • `MongoDB` • `SQL`
+
+---
+
+## 🧪 Technologies I’ve Explored
+
+- ⭐ C / C++
+- ⭐ Python
+- ⭐ JavaScript
+- ⭐ MongoDB
+- ⭐ SQL
+- ⭐ DSA (Data Structures & Algorithms)
 
 ---
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/) <!-- 🔁 Replace with your actual LinkedIn link -->
-- [Portfolio](#) *(Coming Soon)*
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Contact
-
-📧 **Email:** your.email@example.com <!-- 🔁 Replace with your email -->
-
----
-
-## 🛠 Tech Stack Icons
+## 🛠 Tech Stack at a Glance
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,express,nodejs,mongodb,c,cpp,python,git" />
