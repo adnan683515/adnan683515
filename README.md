@@ -1,12 +1,11 @@
-<!-- Profile Banner with Background and Profile Image -->
+<!-- 🔥 Profile Banner -->
 <p align="center">
-  <!-- Background Image -->
-  <img src="https://wallpapercave.com/wp/wp11215199.png" alt="React Background" width="100%" />
+  <img src="https://i.ibb.co/5h35VMBn/software-developer-6521720-1280.jpg" alt="React Developer Banner" width="100%" />
 </p>
 
+<!-- 👤 Profile Image -->
 <p align="center">
-  <!-- Profile Image -->
-  <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="180" style="border-radius: 50%; margin-top: -120px;" />
+  <img src="https://i.ibb.co/RGBgZ78C/475664867-629872126390266-6867168703155774116-n-1-Picsart-Ai-Image-Enhancer.png" alt="Golam Faruk Adnan" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Golam Faruk Adnan</h1>
@@ -16,10 +15,10 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 Passionate Full Stack Developer from Bangladesh  
-- ⚛️ Specialized in **React**, **Tailwind CSS**, **JavaScript**, and modern web tech  
-- 🧠 Exploring technologies like **C, C++, Python, MongoDB, SQL, DSA**
-- 🌱 Constant learner with strong interest in performance and clean UI
+- 💻 Full Stack Developer from Bangladesh  
+- ⚛️ Specialized in **React**, **Tailwind CSS**, **JavaScript**  
+- 🌱 Tech explorer with hands-on in **C, C++, Python, MongoDB, SQL, DSA**
+- 🛠 Focused on building modern, user-friendly, and responsive web apps
 
 ---
 
@@ -47,22 +46,23 @@
 - JavaScript
 - React
 - Tailwind CSS
+- HTML & CSS
 - MongoDB
 - SQL
-- Data Structures & Algorithms (DSA)
+- DSA (Data Structures & Algorithms)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/) <!-- Replace this with your LinkedIn profile -->
-- 🌐 [Portfolio](#) *(coming soon)*
+- [LinkedIn](https://www.linkedin.com/) <!-- 🔁 Replace with your actual LinkedIn link -->
+- [Portfolio](#) *(Coming Soon)*
 
 ---
 
 ## 📫 Contact
 
-📧 Email: `your.email@example.com` <!-- Replace this -->
+📧 **Email:** your.email@example.com <!-- 🔁 Replace with your email -->
 
 ---
 
