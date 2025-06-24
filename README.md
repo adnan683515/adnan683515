@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m **Golam Faruk Adnan**
-- 💻 A **Frontend-focused MERN Stack Web Developer** based in **Dhaka, Bangladesh**
+- 💻 A **Frontend-focused MERN Stack Web Developer**
 - 🚀 Passionate about building clean, responsive, and dynamic web apps with modern tech  
 - ⚛️ Comfortable working with **React, Node.js, Express.js, MongoDB, Tailwind, HTML, CSS**  
 - 🧠 Currently exploring **problem solving** on **LeetCode** to sharpen logical skills  
