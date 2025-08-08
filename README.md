@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/v4HpDbnG/frontend.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/LXHnqLMn/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Banner" />
 </p>
 
 <p align="left">
