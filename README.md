@@ -9,18 +9,18 @@
 
 ---
 
-# 💫 About Me:
-- 👋 Hi, I’m **Golam Faruk Adnan**
-- 💻 A **Frontend-focused MERN Stack Web Developer**
-- 🚀 Passionate about crafting responsive and dynamic UIs with modern web technologies  
-- ⚛️ Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, HTML5, CSS3**
-- 🧠 Currently doing **JavaScript problem solving** to improve logic & data structure knowledge (LeetCode, etc.)
-- 📬 Reach me at: [golamfaruk680@gmail.com](mailto:golamfaruk680@gmail.com)
-- 📬 Protfolio: [https://deadpan-birth.surge.sh/](https://deadpan-birth.surge.sh/)
+#  About Me:
+- Hi, I’m **Golam Faruk Adnan**
+-  A **Frontend-focused MERN Stack Web Developer**
+-  Passionate about crafting responsive and dynamic UIs with modern web technologies  
+- ⚛Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, HTML5, CSS3**
+- Currently doing **JavaScript problem solving** to improve logic & data structure knowledge (LeetCode, etc.)
+-  Reach me at: [golamfaruk680@gmail.com](mailto:golamfaruk680@gmail.com)
+-  Protfolio: [https://deadpan-birth.surge.sh/](https://green-protfolio-adnan.vercel.app/)
 
 ---
 
-## 🌐 Socials:
+## Socials:
 
 <p>
   <a href="https://www.linkedin.com/in/golam-faruk-adnan-bb7794352/" target="_blank">
@@ -35,9 +35,9 @@
 </p>
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
-### 🚀 Main Skills (Comfortable)
+### Main Skills (Comfortable)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -58,14 +58,14 @@
 
 
 
-## 🧠 Problem Solving
+## Problem Solving
 
-- 💡 Practicing Provlem solving on  [LeetCode](https://leetcode.com/u/Golam_Faruk_Adnan/)
-- 🔍 Exploring JavaScript challenges and improving performance
+- Practicing Provlem solving on  [LeetCode](https://leetcode.com/u/Golam_Faruk_Adnan/)
+- Exploring JavaScript challenges and improving performance
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adnan683515&show_icons=true&theme=dark&hide_border=true" width="350" alt="GitHub Stats" />
@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=adnan683515&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
