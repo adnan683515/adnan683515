@@ -16,7 +16,7 @@
 - ⚛Skilled in **React, Node.js, Express.js, MongoDB, Tailwind CSS, HTML5, CSS3**
 - Currently doing **JavaScript problem solving** to improve logic & data structure knowledge (LeetCode, etc.)
 -  Reach me at: [golamfaruk680@gmail.com](mailto:golamfaruk680@gmail.com)
--  Protfolio: [https://deadpan-birth.surge.sh/](https://green-protfolio-adnan.vercel.app/)
+-  Protfolio: [https://green-protfolio-adnan.vercel.app/](https://green-protfolio-adnan.vercel.app/)
 
 ---
 
